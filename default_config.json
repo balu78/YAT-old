@@ -1,0 +1,1 @@
+{"kernel_size": "13", "kernel_diviation": "5", "mCherry_line_width": "1", "useChache": "on", "mCherry_to_find_pairs": "on", "drop_ignore": "off", "arrested": "Metaphase Arrested", "img_format": "tiff", "input_dir": "/Users/balu/Desktop/inputs/M2210C", "output_dir": "/Users/balu/Desktop/clone/YeastAnalysisTool/outputs"}
